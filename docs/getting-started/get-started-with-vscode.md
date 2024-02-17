@@ -21,7 +21,7 @@ Commands make VS Code extremely powerful.
 To invoke a command, press `cmd+shift+P` and select the command you want to execute.
 For example, to see the Foam graph:
 
-hi iam here to commit some stuff
+hi iam here to commit some stuff xx
 
 - press `cmd+shift+P`
 - start typing `show graph`

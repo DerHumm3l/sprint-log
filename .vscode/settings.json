@@ -20,6 +20,7 @@
   "files.insertFinalNewline": true,
   "markdown.styles": [".vscode/custom-tag-style.css"],
   "gitdoc.enabled": true,
+  "gitdoc.autoCommitDelay": 0,
   "gitdoc.autoPush": "off",
   "gitdoc.autoPull": "off"
 }
