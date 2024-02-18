@@ -1,8 +1,11 @@
 // This file does not get automatically applied
-// @TODO: Make it work or document how to copy to user keybindings
+// Move it manually in the keybindings.json
 [
   {
-    "key": "cmd+shift+n",
-    "command": "foam-vscode.create-note"
+    "key": "ctrl+alt+n",
+    "command": "foam-vscode.create-note",
+    "args": {
+      "templatePath": ".foam/templates/sprint-template.md"
+    }
   }
 ]
