@@ -8,7 +8,7 @@
   "Print to console": {
     "scope": "markdown",
     "prefix": "ticket-section",
-    "body": ["## ${1:ticket number}", "", "- [ ] $2"],
+    "body": ["### ${1:ticket number}", "", "- [ ] $2"],
     "description": "Create a new ticket section"
   }
 }
