@@ -5,7 +5,7 @@ foam_template:
   description: Default Template for sprint notes
 ---
 
-# $FOAM_TITLE - ${1: Sprint Name}
+# $FOAM_TITLE - ${1:Sprint Name}
 
 ## Inbox
 
